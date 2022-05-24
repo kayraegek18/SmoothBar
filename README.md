@@ -3,7 +3,7 @@
 
 ### Features
 - Advanced event system
-- Editor menu system
+- Custom Editor menu
 - Docs
 
 ### Example (UNITY!!!)
