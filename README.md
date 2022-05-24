@@ -1,6 +1,9 @@
 # SmoothBar
 `This script is beta version`
 
+## Releases
+https://github.com/kayraegek18/SmoothBar/releases/tag/SmoothBar
+
 ### Features
 - Advanced event system
 - Custom Editor menu
