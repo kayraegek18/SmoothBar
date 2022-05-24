@@ -5,3 +5,8 @@
 - Advanced event system
 - Editor menu system
 - Docs
+
+### Example
+```csharp
+public float asd;
+```
