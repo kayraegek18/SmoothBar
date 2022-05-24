@@ -1,7 +1,7 @@
 # SmoothBar
 `This script is beta version`
 
-###Features
+### Features
 - Advanced event system
 - Editor menu system
 - Docs
