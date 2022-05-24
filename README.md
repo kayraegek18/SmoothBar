@@ -1,2 +1,2 @@
 # SmoothBar
-## asd
+`This script is beta version`
