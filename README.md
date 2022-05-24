@@ -43,3 +43,11 @@ public class test : MonoBehaviour
     }
 }
 ```
+
+### References
+```csharp
+barReferance.AddBarValue(valueToAdd); // Increase bar value
+barReferance.SubstractBarValue(valueToSubstract); // Substract bar value
+barReferance.SetMaxBarValue(valueToSync); // Set max bar value
+barReferance.StartSmoothBar(); // Start bar smoother animation
+```
