@@ -4,7 +4,7 @@
 ### Features
 - Advanced event system
 - Custom Editor menu
-- Docs
+- [Docs](https://basenodestudios.com "Docs")
 
 ### Example (UNITY!!!)
 ```csharp
